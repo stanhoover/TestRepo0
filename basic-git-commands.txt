@@ -14,4 +14,6 @@
 > git push -u origin master
 > git branch "NewBranch"
 > git checkout "NewBranch"
+> git checkout "Master" | git merge "NewBranch"
+
 
