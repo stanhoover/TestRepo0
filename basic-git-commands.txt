@@ -12,4 +12,6 @@
 > git status
 > git remote add origin "paste url to remote repo here"
 > git push -u origin master
+> git branch "NewBranch"
+> git checkout "NewBranch"
 
