@@ -1,0 +1,15 @@
+1. Add your GitHub email and username to git
+> Git config --global user.email "yourGitHub@email.com"
+> Git config --global user.name "yourGitHubUsername"
+
+2. Add files/folders to git for tracking
+
+3. Git Commands
+> git init
+> git status
+> git add *.file-ext | *.* | .
+> git commit -m "message goes here"
+> git status
+> git remote add origin "paste url to remote repo here"
+> git push -u origin master
+
