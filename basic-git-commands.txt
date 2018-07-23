@@ -17,5 +17,6 @@
 > git checkout "Master" | git merge "NewBranch"
 > git branch -d "NewBranch"
 > git push origin --delete "NewBranch"
+>
 
 
